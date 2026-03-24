@@ -1,0 +1,26 @@
+{
+  "name": "ultra-random-x",
+  "version": "1.0.0",
+  "description": "Over-engineered true random generator for JS",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "xcopy src dist /E /I /Y"
+  },
+  "keywords": [
+    "random",
+    "crypto",
+    "entropy"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "ultra-random-x": "^1.0.0"
+  }
+}
