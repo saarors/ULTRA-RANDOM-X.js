@@ -4,7 +4,7 @@
 
 # install
 ```bash
-npm install ultra-random-x.js
+npm install ultra-random-x
 ```
 
 # Example
